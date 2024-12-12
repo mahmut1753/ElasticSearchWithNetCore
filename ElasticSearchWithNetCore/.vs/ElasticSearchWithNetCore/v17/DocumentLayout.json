@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{369B4501-E39D-41F3-AEE2-96CC9AC62175}|ElasticSearch.Data\\ElasticSearch.Data.csproj|c:\\users\\mahmut\\source\\repos\\elasticsearchwithnetcore\\elasticsearchwithnetcore\\elasticsearch.data\\repository\\service\\elasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369B4501-E39D-41F3-AEE2-96CC9AC62175}|ElasticSearch.Data\\ElasticSearch.Data.csproj|solutionrelative:elasticsearch.data\\repository\\service\\elasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D43BF1-F34F-4BF5-9F6C-0E6DE1A7BE92}|ElasticSearch.API\\ElasticSearch.API.csproj|c:\\users\\mahmut\\source\\repos\\elasticsearchwithnetcore\\elasticsearchwithnetcore\\elasticsearch.api\\middleware\\configureexceptionhandlerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D43BF1-F34F-4BF5-9F6C-0E6DE1A7BE92}|ElasticSearch.API\\ElasticSearch.API.csproj|solutionrelative:elasticsearch.api\\middleware\\configureexceptionhandlerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D43BF1-F34F-4BF5-9F6C-0E6DE1A7BE92}|ElasticSearch.API\\ElasticSearch.API.csproj|c:\\users\\mahmut\\source\\repos\\elasticsearchwithnetcore\\elasticsearchwithnetcore\\elasticsearch.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D43BF1-F34F-4BF5-9F6C-0E6DE1A7BE92}|ElasticSearch.API\\ElasticSearch.API.csproj|solutionrelative:elasticsearch.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D43BF1-F34F-4BF5-9F6C-0E6DE1A7BE92}|ElasticSearch.API\\ElasticSearch.API.csproj|c:\\users\\mahmut\\source\\repos\\elasticsearchwithnetcore\\elasticsearchwithnetcore\\elasticsearch.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15D43BF1-F34F-4BF5-9F6C-0E6DE1A7BE92}|ElasticSearch.API\\ElasticSearch.API.csproj|solutionrelative:elasticsearch.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D43BF1-F34F-4BF5-9F6C-0E6DE1A7BE92}|ElasticSearch.API\\ElasticSearch.API.csproj|c:\\users\\mahmut\\source\\repos\\elasticsearchwithnetcore\\elasticsearchwithnetcore\\elasticsearch.api\\elasticsearch.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{15D43BF1-F34F-4BF5-9F6C-0E6DE1A7BE92}|ElasticSearch.API\\ElasticSearch.API.csproj|solutionrelative:elasticsearch.api\\elasticsearch.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D43BF1-F34F-4BF5-9F6C-0E6DE1A7BE92}|ElasticSearch.API\\ElasticSearch.API.csproj|c:\\users\\mahmut\\source\\repos\\elasticsearchwithnetcore\\elasticsearchwithnetcore\\elasticsearch.api\\models\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D43BF1-F34F-4BF5-9F6C-0E6DE1A7BE92}|ElasticSearch.API\\ElasticSearch.API.csproj|solutionrelative:elasticsearch.api\\models\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D43BF1-F34F-4BF5-9F6C-0E6DE1A7BE92}|ElasticSearch.API\\ElasticSearch.API.csproj|c:\\users\\mahmut\\source\\repos\\elasticsearchwithnetcore\\elasticsearchwithnetcore\\elasticsearch.api\\models\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D43BF1-F34F-4BF5-9F6C-0E6DE1A7BE92}|ElasticSearch.API\\ElasticSearch.API.csproj|solutionrelative:elasticsearch.api\\models\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369B4501-E39D-41F3-AEE2-96CC9AC62175}|ElasticSearch.Data\\ElasticSearch.Data.csproj|c:\\users\\mahmut\\source\\repos\\elasticsearchwithnetcore\\elasticsearchwithnetcore\\elasticsearch.data\\settings\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369B4501-E39D-41F3-AEE2-96CC9AC62175}|ElasticSearch.Data\\ElasticSearch.Data.csproj|solutionrelative:elasticsearch.data\\settings\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369B4501-E39D-41F3-AEE2-96CC9AC62175}|ElasticSearch.Data\\ElasticSearch.Data.csproj|c:\\users\\mahmut\\source\\repos\\elasticsearchwithnetcore\\elasticsearchwithnetcore\\elasticsearch.data\\repository\\abstractions\\ielasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369B4501-E39D-41F3-AEE2-96CC9AC62175}|ElasticSearch.Data\\ElasticSearch.Data.csproj|solutionrelative:elasticsearch.data\\repository\\abstractions\\ielasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369B4501-E39D-41F3-AEE2-96CC9AC62175}|ElasticSearch.Data\\ElasticSearch.Data.csproj|c:\\users\\mahmut\\source\\repos\\elasticsearchwithnetcore\\elasticsearchwithnetcore\\elasticsearch.data\\models\\record\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369B4501-E39D-41F3-AEE2-96CC9AC62175}|ElasticSearch.Data\\ElasticSearch.Data.csproj|solutionrelative:elasticsearch.data\\models\\record\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369B4501-E39D-41F3-AEE2-96CC9AC62175}|ElasticSearch.Data\\ElasticSearch.Data.csproj|c:\\users\\mahmut\\source\\repos\\elasticsearchwithnetcore\\elasticsearchwithnetcore\\elasticsearch.data\\models\\record\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369B4501-E39D-41F3-AEE2-96CC9AC62175}|ElasticSearch.Data\\ElasticSearch.Data.csproj|solutionrelative:elasticsearch.data\\models\\record\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D43BF1-F34F-4BF5-9F6C-0E6DE1A7BE92}|ElasticSearch.API\\ElasticSearch.API.csproj|c:\\users\\mahmut\\source\\repos\\elasticsearchwithnetcore\\elasticsearchwithnetcore\\elasticsearch.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15D43BF1-F34F-4BF5-9F6C-0E6DE1A7BE92}|ElasticSearch.API\\ElasticSearch.API.csproj|solutionrelative:elasticsearch.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369B4501-E39D-41F3-AEE2-96CC9AC62175}|ElasticSearch.Data\\ElasticSearch.Data.csproj|c:\\users\\mahmut\\source\\repos\\elasticsearchwithnetcore\\elasticsearchwithnetcore\\elasticsearch.data\\models\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369B4501-E39D-41F3-AEE2-96CC9AC62175}|ElasticSearch.Data\\ElasticSearch.Data.csproj|solutionrelative:elasticsearch.data\\models\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369B4501-E39D-41F3-AEE2-96CC9AC62175}|ElasticSearch.Data\\ElasticSearch.Data.csproj|c:\\users\\mahmut\\source\\repos\\elasticsearchwithnetcore\\elasticsearchwithnetcore\\elasticsearch.data\\models\\abstractions\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369B4501-E39D-41F3-AEE2-96CC9AC62175}|ElasticSearch.Data\\ElasticSearch.Data.csproj|solutionrelative:elasticsearch.data\\models\\abstractions\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ElasticSearch.API.http",
+              "DocumentMoniker": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.API\\ElasticSearch.API.http",
+              "RelativeDocumentMoniker": "ElasticSearch.API\\ElasticSearch.API.http",
+              "ToolTip": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.API\\ElasticSearch.API.http",
+              "RelativeToolTip": "ElasticSearch.API\\ElasticSearch.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-12T13:52:33.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.API\\Models\\Enum.cs",
+              "RelativeDocumentMoniker": "ElasticSearch.API\\Models\\Enum.cs",
+              "ToolTip": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.API\\Models\\Enum.cs",
+              "RelativeToolTip": "ElasticSearch.API\\Models\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:45:06.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceResult.cs",
+              "DocumentMoniker": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.API\\Models\\ServiceResult.cs",
+              "RelativeDocumentMoniker": "ElasticSearch.API\\Models\\ServiceResult.cs",
+              "ToolTip": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.API\\Models\\ServiceResult.cs",
+              "RelativeToolTip": "ElasticSearch.API\\Models\\ServiceResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:44:06.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigureExceptionHandlerExtension.cs",
+              "DocumentMoniker": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.API\\Middleware\\ConfigureExceptionHandlerExtension.cs",
+              "RelativeDocumentMoniker": "ElasticSearch.API\\Middleware\\ConfigureExceptionHandlerExtension.cs",
+              "ToolTip": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.API\\Middleware\\ConfigureExceptionHandlerExtension.cs",
+              "RelativeToolTip": "ElasticSearch.API\\Middleware\\ConfigureExceptionHandlerExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:43:06.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ElasticSearch.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ElasticSearch.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T12:48:49.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElasticSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.Data\\Repository\\Service\\ElasticSearchService.cs",
+              "RelativeDocumentMoniker": "ElasticSearch.Data\\Repository\\Service\\ElasticSearchService.cs",
+              "ToolTip": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.Data\\Repository\\Service\\ElasticSearchService.cs",
+              "RelativeToolTip": "ElasticSearch.Data\\Repository\\Service\\ElasticSearchService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:12:43.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.API\\Program.cs",
+              "RelativeDocumentMoniker": "ElasticSearch.API\\Program.cs",
+              "ToolTip": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.API\\Program.cs",
+              "RelativeToolTip": "ElasticSearch.API\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwCcAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:07:29.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.Data\\Settings\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "ElasticSearch.Data\\Settings\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.Data\\Settings\\GlobalUsing.cs",
+              "RelativeToolTip": "ElasticSearch.Data\\Settings\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:04:52.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ElasticSearch.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.API\\appsettings.json",
+              "RelativeToolTip": "ElasticSearch.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T12:02:40.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.Data\\Models\\Record\\UpdateProductVM.cs",
+              "RelativeDocumentMoniker": "ElasticSearch.Data\\Models\\Record\\UpdateProductVM.cs",
+              "ToolTip": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.Data\\Models\\Record\\UpdateProductVM.cs",
+              "RelativeToolTip": "ElasticSearch.Data\\Models\\Record\\UpdateProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:01:15.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.Data\\Models\\Record\\CreateProductVM.cs",
+              "RelativeDocumentMoniker": "ElasticSearch.Data\\Models\\Record\\CreateProductVM.cs",
+              "ToolTip": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.Data\\Models\\Record\\CreateProductVM.cs",
+              "RelativeToolTip": "ElasticSearch.Data\\Models\\Record\\CreateProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:01:07.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IElasticSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.Data\\Repository\\Abstractions\\IElasticSearchService.cs",
+              "RelativeDocumentMoniker": "ElasticSearch.Data\\Repository\\Abstractions\\IElasticSearchService.cs",
+              "ToolTip": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.Data\\Repository\\Abstractions\\IElasticSearchService.cs",
+              "RelativeToolTip": "ElasticSearch.Data\\Repository\\Abstractions\\IElasticSearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:56:36.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.Data\\Models\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "ElasticSearch.Data\\Models\\Entity\\Product.cs",
+              "ToolTip": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.Data\\Models\\Entity\\Product.cs",
+              "RelativeToolTip": "ElasticSearch.Data\\Models\\Entity\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:54:40.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.Data\\Models\\Abstractions\\IBaseEntity.cs",
+              "RelativeDocumentMoniker": "ElasticSearch.Data\\Models\\Abstractions\\IBaseEntity.cs",
+              "ToolTip": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.Data\\Models\\Abstractions\\IBaseEntity.cs",
+              "RelativeToolTip": "ElasticSearch.Data\\Models\\Abstractions\\IBaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:53:44.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

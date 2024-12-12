@@ -1,0 +1,12 @@
+C:\Users\MAHMUT\source\repos\ElasticSearchWithNetCore\ElasticSearchWithNetCore\ElasticSearch.Data\bin\Debug\net9.0\ElasticSearch.Data.deps.json
+C:\Users\MAHMUT\source\repos\ElasticSearchWithNetCore\ElasticSearchWithNetCore\ElasticSearch.Data\bin\Debug\net9.0\ElasticSearch.Data.dll
+C:\Users\MAHMUT\source\repos\ElasticSearchWithNetCore\ElasticSearchWithNetCore\ElasticSearch.Data\bin\Debug\net9.0\ElasticSearch.Data.pdb
+C:\Users\MAHMUT\source\repos\ElasticSearchWithNetCore\ElasticSearchWithNetCore\ElasticSearch.Data\obj\Debug\net9.0\ElasticSearch.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHMUT\source\repos\ElasticSearchWithNetCore\ElasticSearchWithNetCore\ElasticSearch.Data\obj\Debug\net9.0\ElasticSearch.Data.AssemblyInfoInputs.cache
+C:\Users\MAHMUT\source\repos\ElasticSearchWithNetCore\ElasticSearchWithNetCore\ElasticSearch.Data\obj\Debug\net9.0\ElasticSearch.Data.AssemblyInfo.cs
+C:\Users\MAHMUT\source\repos\ElasticSearchWithNetCore\ElasticSearchWithNetCore\ElasticSearch.Data\obj\Debug\net9.0\ElasticSearch.Data.csproj.CoreCompileInputs.cache
+C:\Users\MAHMUT\source\repos\ElasticSearchWithNetCore\ElasticSearchWithNetCore\ElasticSearch.Data\obj\Debug\net9.0\ElasticSearch.Data.dll
+C:\Users\MAHMUT\source\repos\ElasticSearchWithNetCore\ElasticSearchWithNetCore\ElasticSearch.Data\obj\Debug\net9.0\refint\ElasticSearch.Data.dll
+C:\Users\MAHMUT\source\repos\ElasticSearchWithNetCore\ElasticSearchWithNetCore\ElasticSearch.Data\obj\Debug\net9.0\ElasticSearch.Data.pdb
+C:\Users\MAHMUT\source\repos\ElasticSearchWithNetCore\ElasticSearchWithNetCore\ElasticSearch.Data\obj\Debug\net9.0\ref\ElasticSearch.Data.dll
+C:\Users\MAHMUT\source\repos\ElasticSearchWithNetCore\ElasticSearchWithNetCore\ElasticSearch.Data\obj\Debug\net9.0\ElasticSearch.Data.csproj.AssemblyReference.cache

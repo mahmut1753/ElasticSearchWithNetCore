@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nGMAUVzBEqU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MAHMUT\\source\\repos\\ElasticSearchWithNetCore\\ElasticSearchWithNetCore\\ElasticSearch.Data\\ElasticSearch.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MAHMUT\\.nuget\\packages\\elastic.clients.elasticsearch\\8.16.3\\elastic.clients.elasticsearch.8.16.3.nupkg.sha512",
+    "C:\\Users\\MAHMUT\\.nuget\\packages\\elastic.transport\\0.5.6\\elastic.transport.0.5.6.nupkg.sha512",
+    "C:\\Users\\MAHMUT\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\MAHMUT\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
